@@ -1,0 +1,19 @@
+{
+  "name": "streamline-express-typescript",
+  "version": "1.0.0",
+  "description": "POC for express with streamline and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-streamline": "^0.5.3",
+    "ez-streams": "^3.0.10",
+    "streamline": "^2.0.10",
+    "streamline-node": "^1.0.4",
+    "streamline-runtime": "^1.0.31"
+  }
+}
